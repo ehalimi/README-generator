@@ -1,7 +1,7 @@
 # README-generator
 
   ## Video
-  ### <img src = "./README-video.webm">
+  ### <link src = "./README-video.webm">
 
   ## Description: 
   ### This project is a README.md generator which was created using JavaScript and node.js. It's purpose is to help the user save time while creating a README.md file for a new project with a ready template, only by answering a few questions about the project in the terminal. Once the questions are answered, the README.md file is created in the root folder. 
